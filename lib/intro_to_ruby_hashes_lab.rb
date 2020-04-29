@@ -9,12 +9,12 @@ def my_hash
 end
 
 def pioneer
-  pioneer = {
+  pio = {
     name: 'Grace Hopper'
   }
 end
 
 
 def id_hash_generator(number)
-  h
+  id_hash_generator
 end
